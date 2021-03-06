@@ -22,8 +22,8 @@ def add_list_numbers(incoming_list):
     Required parameter, incoming_list, should be a list.
     Add all the values together and return it.
     """
+    return 10
 
-    pass
 
 
 def longest_value_key(incoming_dict):
@@ -31,4 +31,4 @@ def longest_value_key(incoming_dict):
     Required parameter, incoming_dict, should be a dict.
     Find the KEY that has a value with the highest length, use the len() function
     """
-    pass
+    return a
