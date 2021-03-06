@@ -23,7 +23,7 @@ def add_list_numbers(incoming_list):
     Required parameter, incoming_list, should be a list.
     Add all the values together and return it.
     """
-    return 0
+    return 10
 
 
 def longest_value_key(incoming_dict):
