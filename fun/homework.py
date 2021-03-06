@@ -26,7 +26,7 @@ def add_list_numbers(incoming_list):
       summ = sum(filter(None, incoming_list))
     except(TypeError):
       summ = 0
-    return summ)
+    return summ
 
 
 def longest_value_key(incoming_dict):
