@@ -21,9 +21,8 @@ def add_list_numbers(incoming_list):
     """
     Required parameter, incoming_list, should be a list.
     Add all the values together and return it.
-    """
-    Sum = sum(incoming_list)
-    return Sum
+    """    
+    return sum(filter(None, incoming_list))
 
 
 def longest_value_key(incoming_dict):
