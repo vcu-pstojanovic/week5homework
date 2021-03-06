@@ -15,8 +15,5 @@
 [![Pylint](https://github.com/vcu-chfauerbach/week5homework/actions/workflows/pylint.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pylint.yml)
 
 
-All changes should happen in ./fun/homework.py
-
-When you have them green, give me the repository link in Canvas!
 
 
