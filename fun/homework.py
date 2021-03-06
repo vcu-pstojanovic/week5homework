@@ -14,8 +14,7 @@ def find_least_number(incoming_list):
     Required parameter, incoming_list, should be a list.
     Find the smallest/least number in the list.
     """
-    test=1
-    return 1
+    return min(incoming_list)
 
 
 def add_list_numbers(incoming_list):
@@ -23,7 +22,7 @@ def add_list_numbers(incoming_list):
     Required parameter, incoming_list, should be a list.
     Add all the values together and return it.
     """
-    return 10
+    return sum(incoming_list)
 
 
 def longest_value_key(incoming_dict):
