@@ -8,7 +8,7 @@
 
 
 
-[![Python package](https://github.com/vcu-chfauerbach/week5homework/actions/workflows/pytest.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pytest.yml)
+[![Python package](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pytest.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pytest.yml)
 
 
 
