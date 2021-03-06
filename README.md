@@ -4,7 +4,7 @@
 
 
 
-[![black](https://github.com/vcu-chfauerbach/week5homework/actions/workflows/pyblack.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pyblack.yml)
+[![black](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pyblack.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/pyblack.yml)
 
 
 
