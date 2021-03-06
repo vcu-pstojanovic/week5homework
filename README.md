@@ -1,6 +1,6 @@
 # week5Homework
 
-[![isort](https://github.com/vcu-chfauerbach/week5homework/actions/workflows/isort.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/isort.yml)
+[![isort](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/isort.yml/badge.svg)](https://github.com/vcu-pstojanovic/week5homework/actions/workflows/isort.yml)
 
 
 
